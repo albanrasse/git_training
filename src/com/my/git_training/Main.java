@@ -12,9 +12,7 @@ public class Main {
 	//*********************************************************************************
 	public static void main(String[] args) {
 		
-		
-		
-		System.out.println("HELLO WORD 5 from github");
+		System.out.println("HELLO WORD 6 from eclipse");
 
 	}
 
